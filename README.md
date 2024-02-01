@@ -2,7 +2,7 @@
 
 In this project, I used a convolutional neural network to detect cats and dogs in images! 
 
-An executable .py file can be found for each model, along with a .ipynb file to visualize the model's results on the dataset. The Dataset is too large to upload to Github, so a link is provided to a google drive folder with the dataset! 
+An executable .py file can be found for each model, along with a .ipynb file to visualize the model's results on the dataset. The Dataset is too large to upload to Github, so a link is provided to a google drive folder with the dataset: https://drive.google.com/drive/folders/19dtOGJiJE9DnoWslN0AQGVtUpOgyMw7p?usp=sharing  
 
 
 To speed up model training, Google Colab was used.
